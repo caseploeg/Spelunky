@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"SS_GetSoundPosition",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SS_GetSoundPosition",
+  "parent":{
+    "name":"Advanced",
+    "path":"folders/Scripts/supersound/Advanced.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

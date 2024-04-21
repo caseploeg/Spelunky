@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"checkLeftPressed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"checkLeftPressed",
+  "parent":{
+    "name":"Control",
+    "path":"folders/Scripts/Control.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"isCollisionCharacterTop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"isCollisionCharacterTop",
+  "parent":{
+    "name":"vertical",
+    "path":"folders/Scripts/Collision/vertical.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

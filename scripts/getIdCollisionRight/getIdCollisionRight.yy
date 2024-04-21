@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"getIdCollisionRight",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getIdCollisionRight",
+  "parent":{
+    "name":"horizontal",
+    "path":"folders/Scripts/Collision/horizontal.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

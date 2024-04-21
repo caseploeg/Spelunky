@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrGetFavorMsg",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrGetFavorMsg",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

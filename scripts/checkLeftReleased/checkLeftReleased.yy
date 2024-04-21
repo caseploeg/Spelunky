@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"checkLeftReleased",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"checkLeftReleased",
+  "parent":{
+    "name":"Control",
+    "path":"folders/Scripts/Control.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

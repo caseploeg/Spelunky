@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"get_objects_in_view",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_objects_in_view",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

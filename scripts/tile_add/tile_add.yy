@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"tile_add",
+  "isCompatibility":true,
+  "isDnD":false,
+  "name":"tile_add",
+  "parent":{
+    "name":"tile",
+    "path":"folders/Scripts/compatibility/tile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"checkFlarePressed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"checkFlarePressed",
+  "parent":{
+    "name":"Control",
+    "path":"folders/Scripts/Control.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"checkJoyButton",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"checkJoyButton",
+  "parent":{
+    "name":"Control",
+    "path":"folders/Scripts/Control.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

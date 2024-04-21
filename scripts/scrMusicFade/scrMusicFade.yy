@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrMusicFade",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrMusicFade",
+  "parent":{
+    "name":"Audio",
+    "path":"folders/Scripts/Audio.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
