@@ -59,12 +59,12 @@ function get_all_objects_in_view() {
 			r3 = 656;
 		}
 		
-		show_debug_message(string(r1) + " " + string(r3));
+		//show_debug_message(string(r1) + " " + string(r3));
 		//show_debug_message(string(r1) + " " + string(r2) + string(player.x) + string(player.y));
         // Check if the instance's position is within the view's boundaries
         if (point_in_rectangle(x, y, r1, player.y-128, r3, player.y+128))
         {
-			image_blend = c_red;
+			//image_blend = c_red;
             ds_list_add(_list, id);  // Add the instance ID to the list
         } else {
 			image_blend = c_white;
